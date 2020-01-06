@@ -12,7 +12,7 @@ numpy
 ```
 
 # To Use
-0. Make sure the video is in the same directory as all the code files. Include the video extension in all instances of <videoname>.
+0. Make sure the video is in the same directory as all the code files. Include the video extension in all instances of ```<videoname>```.
 
 1. ```python python estimateCameraPath.py <videoname>```
 
