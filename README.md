@@ -25,11 +25,10 @@ numpy
 The folder *examples* contains examples of the algorithm applied on various videos. A few are shown below.
 
 ![pan1.mp4](https://github.com/sxzhang25/COS-429-Final-Project/blob/master/pan.gif?raw=true)
-
 ![train1.mp4](https://github.com/sxzhang25/COS-429-Final-Project/blob/master/train.gif?raw=true)
-
 ![walking3.mp4](https://github.com/sxzhang25/COS-429-Final-Project/blob/master/walking.gif?raw=true)
-
 ![williams2.mp4](https://github.com/sxzhang25/COS-429-Final-Project/blob/master/williams.gif?raw=true)
-
 ![yuna1.mp4](https://github.com/sxzhang25/COS-429-Final-Project/blob/master/yuna.gif?raw=true)
+
+# Experiments
+The folder *experiments* contains various results from tests on crop window parameters.
