@@ -1,7 +1,3 @@
-# COS 429 Final Project
-## Fall 2019
-## Sharon Zhang
-
 # Project Description
 Implementation of Youtube video stabilization algorithm.
 Based on work by Matthias Grundmann, Vivek Kwatra, and Irfan Essa:
