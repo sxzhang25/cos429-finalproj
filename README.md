@@ -8,6 +8,7 @@ Based on work by Matthias Grundmann, Vivek Kwatra, and Irfan Essa:
 https://ai.googleblog.com/2011/06/auto-directed-video-stabilization-with.html
 
 # Dependencies
+This project uses the following software packages:
 ```python 
 cvx
 opencv
