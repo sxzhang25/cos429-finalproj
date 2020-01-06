@@ -1,3 +1,6 @@
-Contains 42 videos in total.
+The /examples/ folder contains 42 videos in total.
 videoname_new.mp4 shows a side-by-side comparison of the original video (top/left) with the stabilized video (bottom/right).
 videoname_box.mp4 shows the original video with the crop window superimposed over each frame.
+
+
+The /experiments/ folder contains various results from the data analysis portion of the project.
