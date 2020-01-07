@@ -1,5 +1,5 @@
 # Project Description
-Implementation of Youtube video stabilization algorithm.
+Implementation of the Youtube video stabilization algorithm.
 Based on work by Matthias Grundmann, Vivek Kwatra, and Irfan Essa:
 
 https://ai.googleblog.com/2011/06/auto-directed-video-stabilization-with.html
