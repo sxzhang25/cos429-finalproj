@@ -15,11 +15,11 @@ numpy
 # To Use
 0. Make sure the video is in the same directory as all the code files. Include the video extension in all instances of `<videoname>`.
 
-1. `python python estimateCameraPath.py <videoname>`
+1. `python estimateCameraPath.py <videoname>`
 
 2. Change the variable `videoname` in `runGetOptimCamPath.m` and run the script.
 
-3. `python python createVideo.py <videoname>`
+3. `python createVideo.py <videoname>`
 
 # Examples
 The folder *examples* contains examples of the algorithm applied on various videos. A few are shown below.
