@@ -1,3 +1,8 @@
+%%%
+% Code reference:
+% https://github.com/ishit/L1Stabilizer
+%%%
+
 function err = getOptimCamPath(videoname, numFrames, vidsize, ul, lr)
 % getOptimCamPath: gets optimal camera path from estimated camera path
 %   First, read in the esimated camera path from file. Then use cvx to find
